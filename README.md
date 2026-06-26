@@ -1,4 +1,4 @@
-Privacy Policy for Skullbound
+**Privacy Policy for Skullbound**
 
 Last updated: June 26, 2026
 
@@ -6,13 +6,13 @@ Skullbound is a mobile game developed by IronFade Studios. IronFade Studios is o
 
 This Privacy Policy explains how Skullbound handles information when you use the game.
 
-Information We Do Not Directly Collect
+**Information We Do Not Directly Collect**
 
 Skullbound does not require an account.
 
 IronFade Studios does not directly collect your name, email address, phone number, contacts, photos, messages, payment card information, precise location, or other private personal information through the game.
 
-Local Save Data
+**Local Save Data**
 
 Skullbound stores game progress and settings locally on your device. This may include save progress, high scores, upgrades, options, and game preferences.
 
@@ -20,29 +20,29 @@ This local save data stays on your device and is not sent to IronFade Studios.
 
 You can delete local save data by uninstalling Skullbound or clearing the app’s data through your device settings.
 
-Bug Reports
+**Bug Reports**
 
-Skullbound includes a bug report feature.
+Skullbound includes an optional bug report feature.
 
 When you choose to send a bug report, limited technical information may be sent to IronFade Studios through its bug report email system. This information is used only to understand, troubleshoot, and fix problems with the game.
 
 A bug report may include:
 
-* The bug report message you submit
-* App version
-* Build number
-* OS name
-* OS version
-* Device model
-* Screen size
-* Language or locale
-* Time of the report
+• OS name
+• OS version
+• App version
+• Build number
+• Device model
+• Language or locale
+• Time of the report
+• Screen or viewport size
+• Bug report message submitted
 
-The device model may also appear in the bug report email subject/title so IronFade Studios can more easily tell reports apart.
+The device model may also appear in the bug report email subject or title so IronFade Studios can more easily tell reports apart.
 
 Bug reports are intended to contain only technical information needed to fix bugs. Please do not include personal information in bug report messages.
 
-Advertising
+**Advertising**
 
 Skullbound uses Google AdMob to show ads.
 
@@ -52,39 +52,39 @@ Google may use this information to show ads, measure ad performance, prevent fra
 
 You can manage or reset your Android Advertising ID through your device settings.
 
-How Information Is Used
+**How Information Is Used**
 
 Information handled by Skullbound may be used to:
 
-* Show ads through Google AdMob
-* Receive and review bug reports
-* Improve game performance and stability
-* Fix bugs, crashes, and technical issues
-* Save game progress and settings on your device
-* Measure ad performance and prevent ad-related fraud
+• Show ads through Google AdMob
+• Fix bugs and technical issues
+• Receive and review bug reports
+• Improve game performance and stability
+• Save game progress and settings on your device
+• Measure ad performance and prevent ad-related fraud
 
-Sharing Information
+**Sharing Information**
 
 IronFade Studios does not sell personal information.
 
 Limited information may be handled by service providers used to operate Skullbound, including:
 
-Google AdMob, for advertising
-IronFade Studios’ bug report email system, for troubleshooting and stability improvements
+• Google AdMob, for advertising
+• IronFade Studios’ bug report email system, for troubleshooting and stability improvements
 
-Data Security
+**Data Security**
 
 IronFade Studios uses reasonable measures to protect information sent through the bug report feature.
 
-However, no method of electronic transmission or storage is completely secure, so we cannot guarantee absolute security.
+However, no method of electronic transmission or storage is completely secure, so absolute security cannot be guaranteed.
 
-Children’s Privacy
+**Children’s Privacy**
 
 Skullbound is not intended for children under the age of 13.
 
-IronFade Studios does not knowingly collect personal information from children. If you believe a child has provided personal information through Skullbound, please contact us so we can review and remove it if necessary.
+IronFade Studios does not knowingly collect personal information from children. If you believe a child has provided personal information through Skullbound, please contact IronFade Studios so the information can be reviewed and removed if necessary.
 
-Data Deletion
+**Data Deletion**
 
 Local save data can be deleted by uninstalling Skullbound or clearing the app’s data through your device settings.
 
@@ -92,14 +92,14 @@ For bug report deletion requests or privacy questions, contact IronFade Studios 
 
 Email: IronFadeStudios@gmail.com
 
-Changes to This Privacy Policy
+**Changes to This Privacy Policy**
 
-IronFade Studios may update this Privacy Policy from time to time. Any changes will be posted with an updated “Last updated” date.
+IronFade Studios may update this Privacy Policy from time to time. Any changes will be posted with an updated Last updated date.
 
-Contact Us
+**Contact Us**
 
 If you have questions about this Privacy Policy, contact:
 
-IronFade Studios 
-Owner: John Matthews  
+IronFade Studios
+Owner: John Matthews
 Email: IronFadeStudios@gmail.com
