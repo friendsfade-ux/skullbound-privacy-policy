@@ -30,11 +30,11 @@ A bug report may include:
 
 * The bug report message you submit
 * App version
-* Build number, if available
+* Build number
 * OS name
 * OS version
-* Device model, if available
-* Screen or viewport size
+* Device model
+* Screen size
 * Language or locale
 * Time of the report
 
@@ -58,8 +58,8 @@ Information handled by Skullbound may be used to:
 
 * Show ads through Google AdMob
 * Receive and review bug reports
-* Fix bugs, crashes, and technical issues
 * Improve game performance and stability
+* Fix bugs, crashes, and technical issues
 * Save game progress and settings on your device
 * Measure ad performance and prevent ad-related fraud
 
