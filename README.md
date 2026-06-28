@@ -1,18 +1,18 @@
-**Privacy Policy for Skullbound**
+# Privacy Policy for Skullbound
 
-Last updated: June 26, 2026
+**Last updated:** June 26, 2026
 
 Skullbound is a mobile game developed by IronFade Studios. IronFade Studios is owned and operated by John Matthews.
 
 This Privacy Policy explains how Skullbound handles information when you use the game.
 
-**Information We Do Not Directly Collect**
+## 1. Information We Do Not Directly Collect
 
 Skullbound does not require an account.
 
 IronFade Studios does not directly collect your name, email address, phone number, contacts, photos, messages, payment card information, precise location, or other private personal information through the game.
 
-**Local Save Data**
+## 2. Local Save Data
 
 Skullbound stores game progress and settings locally on your device. This may include save progress, high scores, upgrades, options, and game preferences.
 
@@ -20,7 +20,7 @@ This local save data stays on your device and is not sent to IronFade Studios.
 
 You can delete local save data by uninstalling Skullbound or clearing the app’s data through your device settings.
 
-**Bug Reports**
+## 3. Bug Reports
 
 Skullbound includes an optional bug report feature.
 
@@ -33,8 +33,8 @@ A bug report may include:
 • App version
 • Build number
 • Device model
-• Language or locale
 • Time of the report
+• Language or locale
 • Screen or viewport size
 • Bug report message submitted
 
@@ -42,7 +42,7 @@ The device model may also appear in the bug report email subject or title so Iro
 
 Bug reports are intended to contain only technical information needed to fix bugs. Please do not include personal information in bug report messages.
 
-**Advertising**
+## 4. Advertising
 
 Skullbound uses Google AdMob to show ads.
 
@@ -52,18 +52,18 @@ Google may use this information to show ads, measure ad performance, prevent fra
 
 You can manage or reset your Android Advertising ID through your device settings.
 
-**How Information Is Used**
+## 5. How Information Is Used
 
 Information handled by Skullbound may be used to:
 
 • Show ads through Google AdMob
 • Fix bugs and technical issues
 • Receive and review bug reports
+• Measure ad performance and prevent ad-related fraud
 • Improve game performance and stability
 • Save game progress and settings on your device
-• Measure ad performance and prevent ad-related fraud
 
-**Sharing Information**
+## 6. Sharing Information
 
 IronFade Studios does not sell personal information.
 
@@ -72,34 +72,34 @@ Limited information may be handled by service providers used to operate Skullbou
 • Google AdMob, for advertising
 • IronFade Studios’ bug report email system, for troubleshooting and stability improvements
 
-**Data Security**
+## 7. Data Security
 
 IronFade Studios uses reasonable measures to protect information sent through the bug report feature.
 
 However, no method of electronic transmission or storage is completely secure, so absolute security cannot be guaranteed.
 
-**Children’s Privacy**
+## 8. Children’s Privacy
 
 Skullbound is not intended for children under the age of 13.
 
 IronFade Studios does not knowingly collect personal information from children. If you believe a child has provided personal information through Skullbound, please contact IronFade Studios so the information can be reviewed and removed if necessary.
 
-**Data Deletion**
+## 9. Data Deletion
 
 Local save data can be deleted by uninstalling Skullbound or clearing the app’s data through your device settings.
 
 For bug report deletion requests or privacy questions, contact IronFade Studios at:
 
-Email: IronFadeStudios@gmail.com
+**Email:** [IronFadeStudios@gmail.com](mailto:IronFadeStudios@gmail.com)
 
-**Changes to This Privacy Policy**
+## 10. Changes to This Privacy Policy
 
 IronFade Studios may update this Privacy Policy from time to time. Any changes will be posted with an updated Last updated date.
 
-**Contact Us**
+## 11. Contact Us
 
 If you have questions about this Privacy Policy, contact:
 
-IronFade Studios
-Owner: John Matthews
-Email: IronFadeStudios@gmail.com
+**IronFade Studios**
+**Owner:** John Matthews
+**Email:** [IronFadeStudios@gmail.com](mailto:IronFadeStudios@gmail.com)
